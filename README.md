@@ -1,18 +1,13 @@
 ## Hi I'm Parsa 👋
 
 ## About Me
-Software Engineer with a background in software development, Design, and machine learning. Experienced in web, mobile, and desktop applications, with a focus on AI features, and ML-driven solutions. Committed to continuous learning and contributing to innovative projects.
+Software Engineer with a background in software development, design, and machine learning. Experienced in web, mobile, and desktop applications, with a focus on AI features, and ML-driven solutions. Committed to continuous learning and contributing to innovative projects.
 
-
-<!--
-**parsabanaei/parsabanaei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🛠️ I’m currently developing AI technology focused on autonomous systems.
 - 📖 I’m currently learning advanced ML techniques & algorithms. 
 - 👨‍💻 I’m looking to collaborate on innovative AI projects
--->
+
 
 ## 🔧 Skills
 ### Machine Learning & AI
@@ -85,7 +80,6 @@ Here are some ideas to get you started:
 ## 🎓 Education
 - **Bachelor of Science in Computer Science**
   Fullerton University, Fullerton, CA
-  
 - **AS in Computer Science & Cybersecurity**
   Saddleback College
 
