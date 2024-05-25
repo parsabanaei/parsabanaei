@@ -64,11 +64,6 @@ Software Engineer with a background in software development, design, and machine
 - Terraform, Ansible, Puppet, Chef
 - Monitoring and Logging (Prometheus, Grafana, ELK Stack)
 
-### 🔒 Security
-- Security Best Practices
-- Penetration Testing
-- Identity and Access Management (IAM)
-
 ### 🖥️ Operating Systems
 - macOS, Linux, Windows
 
