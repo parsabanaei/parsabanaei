@@ -10,7 +10,7 @@ Software Engineer with a background in software development, design, and machine
 
 
 ## 🔧 Skills
-### Machine Learning & AI
+### 🤖 Machine Learning & AI
 - Supervised Learning
 - Unsupervised Learning
 - Regression & Classification
@@ -21,12 +21,12 @@ Software Engineer with a background in software development, design, and machine
 - Reinforcement Learning
 - Model Deployment and Monitoring
 
-### Programming Languages
+### 💻 Programming Languages
 - C++, Java, Kotlin, C#, PHP, Python, Flutter
 - HTML, CSS, JavaScript, TypeScript
 - R, Swift, Go
 
-### Frameworks and Tools
+### 🛠 Frameworks and Tools
 - Django, Spring Boot, React, Angular, .NET
 - TensorFlow, PyTorch, scikit-learn
 - GitHub, GitLab, Bitbucket
@@ -34,16 +34,16 @@ Software Engineer with a background in software development, design, and machine
 - Jenkins, Travis CI, CircleCI
 - Flask, Express.js
 
-### Cloud Platforms
+### ☁️ Cloud Platforms
 - **Amazon Web Services (AWS):** EC2, S3, RDS, Lambda, SageMaker, ECS, Fargate
 - **Google Cloud Platform (GCP):** Compute Engine, Cloud Storage, BigQuery, AI Platform, Kubernetes Engine
 
-### Database Design and Development
+### 🗄 Database Design and Development
 - MySQL, SQL Server, PostgreSQL, NoSQL (MongoDB, Cassandra)
 - Data Structures and Algorithms
 - Complex Queries and Database Optimization
 
-### Software Development Practices
+### 🛠️ Software Development Practices
 - Object-Oriented Programming (OOP)
 - API Design and Development (REST, GraphQL)
 - UML Diagrams
@@ -51,20 +51,25 @@ Software Engineer with a background in software development, design, and machine
 - Agile Methodology (Scrum, Kanban)
 - Continuous Integration/Continuous Deployment (CI/CD)
 
-### Development Tools
+### 🔧 Development Tools
 - VScode, Visual Studio, IntelliJ IDEA, Eclipse
 - Figma, Adobe XD
 - Postman, Swagger
 
-### Big Data Technologies
+### 📊 Big Data Technologies
 - Hadoop, Spark
 - Kafka, RabbitMQ
 
-### DevOps and Automation
+### 🛠️ DevOps and Automation
 - Terraform, Ansible, Puppet, Chef
 - Monitoring and Logging (Prometheus, Grafana, ELK Stack)
 
-### Operating Systems
+### 🔒 Security
+- Security Best Practices
+- Penetration Testing
+- Identity and Access Management (IAM)
+
+### 🖥️ Operating Systems
 - macOS, Linux, Windows
 
 
