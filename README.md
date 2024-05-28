@@ -1,5 +1,9 @@
 ## Hi I'm Parsa 👋
 
+
+![LinkedIn Background]([https://github.com/yourusername/your-repo-name/blob/main/background.png](https://www.linkedin.com/in/parsa-b-b30034157/))
+
+
 ## About Me
 Software Engineer with a background in software development, design, and machine learning. Experienced in web, mobile, and desktop applications, with a focus on AI features, and ML-driven solutions. Committed to continuous learning and contributing to innovative projects.
 
