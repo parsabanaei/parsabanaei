@@ -9,7 +9,7 @@ Software Engineer with a background in software development, design, and machine
 
 
 - 🛠️ I’m currently developing AI technology focused on autonomous systems.
-- 📖 I’m currently learning advanced ML techniques & algorithms. 
+- 🧬 I’m currently working on advanced ML techniques & algorithms. 
 - 👨‍💻 I’m looking to collaborate on innovative AI projects
 
 
@@ -30,7 +30,7 @@ Software Engineer with a background in software development, design, and machine
 - HTML, CSS, JavaScript, TypeScript
 - R, Swift, Go
 
-### 🛠 Frameworks and Tools
+### 🧰 Frameworks and Tools
 - Django, Spring Boot, React, Angular, .NET
 - TensorFlow, PyTorch, scikit-learn
 - GitHub, GitLab, Bitbucket
@@ -64,7 +64,7 @@ Software Engineer with a background in software development, design, and machine
 - Hadoop, Spark
 - Kafka, RabbitMQ
 
-### 🛠️ DevOps and Automation
+### ⛓️‍💥 DevOps and Automation
 - Terraform, Ansible, Puppet, Chef
 - Monitoring and Logging (Prometheus, Grafana, ELK Stack)
 
