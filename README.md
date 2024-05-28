@@ -1,7 +1,7 @@
 ## Hi I'm Parsa 👋
 
 
-![LinkedIn Background]([https://github.com/yourusername/your-repo-name/blob/main/background.png](https://www.linkedin.com/in/parsa-b-b30034157/))
+<img src="https://raw.githubusercontent.com/parsabanaei/parsabanaei/master/banner.png" alt="Banner about Parsa Banaei">
 
 
 ## About Me
