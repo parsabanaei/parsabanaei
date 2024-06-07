@@ -73,12 +73,12 @@ Software Engineer with a background in software development, design, and machine
   
 
 
-[//]: <>## 📂 Projects
-[//]: <>- **[Machine Learning Model](link-to-project):** Developed a predictive model using Python and TensorFlow for financial forecasting.
-[//]: <>- **[Mobile App Development](link-to-project):** Created a high-performance Android application using Kotlin and Flutter.
-[//]: <>- **[API Development](link-to-project):** Designed and implemented a robust API with .NET, including complete documentation.
-[//]: <>- **[Web Application](link-to-project):** Full-stack web application using Django and React, highlighting user-friendly design and efficient database integration.
-[//]: <>- **[Desktop Application](link-to-project):** Built a desktop tool with C# and .NET Framework for data analysis and visualization.
+## 📂 Projects
+- **[Machine Learning Model](link-to-project):** Developed a predictive model using Python and TensorFlow for financial forecasting.
+- **[Mobile App Development](link-to-project):** Created a high-performance Android application using Kotlin and Flutter.
+- **[API Development](link-to-project):** Designed and implemented a robust API with .NET, including complete documentation.
+- **[Web Application](link-to-project):** Full-stack web application using Django and React, highlighting user-friendly design and efficient database integration.
+- **[Desktop Application](link-to-project):** Built a desktop tool with C# and .NET Framework for data analysis and visualization.
 
 
 ## 🎓 Education
@@ -90,7 +90,7 @@ Software Engineer with a background in software development, design, and machine
 
 ## 📫 Get in Touch
 - **[LinkedIn](https://www.linkedin.com/in/parsa-b-b30034157/)**
-[//]: <>- **[Website](parsabanaei.com)**
+- **[Website](parsabanaei.com)**
 
 ## 🤝 Open to Collaboration
 Open to collaborating on cool projects and contributing to innovative solutions. Feel free to reach out!
