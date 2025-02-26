@@ -33,7 +33,6 @@ Software Engineer with a background in software development, design, and machine
 - TensorFlow, PyTorch, scikit-learn, Core ML
 - Docker, Kubernetes
 - REST, API Design and Development (REST, GraphQL), WebSockets
-- Docker, Kubernetes
 
 ### ☁️ Cloud Platforms
 - **Amazon Web Services (AWS):** EC2, S3, RDS, Lambda, SageMaker, ECS, Fargate
@@ -41,17 +40,7 @@ Software Engineer with a background in software development, design, and machine
 
 ### 🗄 Database Design and Development
 - MySQL, SQL, PostgreSQL, NoSQL (MongoDB, Cassandra)
-- Data Structures and Algorithms
 - Complex Queries and Database Optimization
-
-### 🛠️ Software Development Practices
-- Object-Oriented Programming (OOP)
-- API Design and Development (REST, GraphQL)
-- UML Diagrams
-- Testing and Debugging (JUnit, pytest, Selenium)
-- Agile Methodology (Scrum)
-- Continuous Integration/Continuous Deployment (CI/CD)
-
 
 
 ## 📫 Get in Touch
